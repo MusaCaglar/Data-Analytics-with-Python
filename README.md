@@ -1,2 +1,2 @@
-# Data-Analytics-with-Python
-Data Analytics with Python
+# Python Basics
+Python Basics
